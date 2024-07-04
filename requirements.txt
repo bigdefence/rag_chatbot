@@ -1,0 +1,6 @@
+streamlit
+torch
+transformers
+sentence_transformers
+langchain
+langchain-community
