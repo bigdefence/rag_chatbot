@@ -51,9 +51,10 @@ LLaMA-3-Korean-Bllossom-8B 모델을 활용한 강력한 검색 증강 생성(RA
 - [LangChain](https://langchain.com/): 문서 로딩 및 처리
 - [FAISS](https://github.com/facebookresearch/faiss): 고밀도 벡터의 효율적인 유사도 검색 및 클러스터링
 
-## 👨‍💻 개발자
+## 👨‍💻 개발자 정보
 
-이 프로젝트는 정강빈 님이 개발하였습니다.
+- **이름**: 정강빈
+- **버전**: 1.0.0
 
 ## 📄 라이선스
 
